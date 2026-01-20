@@ -25,7 +25,4 @@ This repository documents my **50-day Python learning journey**, revisiting Pyth
 - Emphasis on understanding over memorization
 - Code written with clarity, comments, and structure
 
----
-
-## 📁 Repository Structure
 
